@@ -7,9 +7,11 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 ---
 
 🎯 **Objectives**  
-- Install and configure Active Directory to manage resources such as user, computers and groups within the company
-- Create a splunk instance to ingest events from the Windows Server that has Active Directory and the target windows machine
-- Utilize Kali Linux to perform a brute force attack to see what kind of telemetry that generates, along with using Atomic Red Team as well
+- Install and set up Windows Server 2016 to create a stable and scalable platform that manages networks, applications and providing centralized servers for the company.
+- Install and configure Active Directory to manage resources such as users, computers and groups within the company.
+- Join client machines to the domain.
+- Create and manage Group Policy Objects(GPOs) to ensure security enforcement, software management and user environment customizations.
+- Provide support to the team with any technical issues within the company, such as: Locked accounts, forgotten passwords, expired accounts, deploying software, setting up printers and giving shared access to certain folders.
 
 ---
 
@@ -20,15 +22,16 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 ---
 
 ✨ **Operating Systems**  
-- Windows Server 2022  
-- Windows 10
-- Ubuntu 24.04
+- Windows Server 2016
+- Windows 10 Pro
 
 ---
 
 🛠 **Skills Utilized**  
 - **Active Directory** to manage and create users, groups and computers.
-- **Group Policy** to 
+- **Group Policy** to ensure proper security and software management.
+- **Remote Desktop** to remote into the user's machine and troubleshoot the current issue.
+- **PDQ** to deploy software in the background to 1 or more machines without interrupting the uesr.
 
 ---
 
