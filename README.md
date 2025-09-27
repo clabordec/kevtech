@@ -27,19 +27,16 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 ---
 
 🛠 **Skills Utilized**  
-- **Active Directory** to manage and create users, groups and computers.  
-- **Kali Linux** to perform a brute force attack on the server.  
-- **Splunk** to analyze machine generated data in real-time from the Windows Server.
-- **Sysmon** will be used for logging purposes.
+- **Active Directory** to manage and create users, groups and computers.
+- **Group Policy** to 
 
 ---
 
 📂 **Repo Organization**  
-- `windows_server_2022/` → Organized steps on setting up Windows Server 2022, changing the computer name, etc.
-- `active_directory/` → Organized steps on installing Active Directory, creating and managing resources.
-- `Sysmon/` → Organized steps on installing sysmon and monitoring system activity.
-- `Splunk/` → Organzied steps on installing splunk and quering for telemetry.
-- `Kali Linux/` → Organized steps on installing Kali Linux and creating scripts to attack the target machine
+- `windows_server_2016/` → Organized steps on setting up Windows Server 2016, changing the computer name and setting up a static IP address.
+- `windwos_client_10/` → Organized steps on setting up Windows 10 Pro and joining the client to the domain.
+- `active_directory/` → Organized steps on installing Active Directory, creating and managing resources, as well as adding computers to the domain.
+- `group_policy/` → Organized steps on setting up certain rules 
 
 ---
 
