@@ -32,7 +32,7 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ## Installing and setting up Windows Pro 10
 ### Go to a search browser and type in the following `windows 10 bootable usb` choose the highlighed link
 <p>
-<img width="1668" height="946" alt="image" src="https://github.com/user-attachments/assets/5d93fa76-394d-4eaa-b692-a45aa82d8a40" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/5d93fa76-394d-4eaa-b692-a45aa82d8a40" />
 </p>
 <br />
 
@@ -303,3 +303,4 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
