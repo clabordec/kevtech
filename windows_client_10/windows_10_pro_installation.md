@@ -82,85 +82,85 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 
 ### Choose the Microsoft Windows operating system, along with the version as Windows 10, Click Next
 <p>
-<img width="633" height="624" alt="image" src="https://github.com/user-attachments/assets/cfc4c5f7-61c9-418e-9ff2-a122ab33e351" />
+<img width="634" height="622" alt="image" src="https://github.com/user-attachments/assets/61e53933-92a7-43d6-a58c-bebdd0259363" />
 </p>
 <br />
 
 ### Name the VM according to the company diagram, Click Next
 <p>
-<img src="https://github.com/user-attachments/assets/8a4c2b72-44db-42c4-9969-c1458343df83" width="550" alt="Disk Sanitization Steps"/>
+<img width="633" height="624" alt="image" src="https://github.com/user-attachments/assets/cfc4c5f7-61c9-418e-9ff2-a122ab33e351" />
 </p>
 <br />
 
-### Go to the newly created VM, right-click on the VM and choose settings
+### Give the VM the proper amount of storage, and store the virtual disk in a single file, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/920cdfde-3eeb-4bec-bac4-1f648cc69abf" width="550" height="550" alt="Disk Sanitization Steps"/>
+<img width="639" height="616" alt="image" src="https://github.com/user-attachments/assets/3361662e-30d8-4509-bf3a-5d95e3c6fc65" />
 </p> 
 <br />
 
-### Based on the specs of your device, change the memory to a decent amount so that the VM will run smoothly
+### Verify the virtual hardware settings, click Finish
 <p>
-<img src="https://github.com/user-attachments/assets/37492e45-dcd8-4cf8-ac40-4ef5ba5804a9" width="550" alt="Disk Sanitization Steps"/>
+<img width="640" height="624" alt="image" src="https://github.com/user-attachments/assets/c9f9d75b-cf89-4b2d-8cbe-c884bed222eb" />
 </p> 
 <br />
 
-### Add the ISO file onto the VM, then click `OK`
+### On the newly created VM, click on `Edit virtual machine settings`
 <p>
-<img src="https://github.com/user-attachments/assets/36d0e895-5e2c-4759-b54f-bb69aa7fe178" width="550" alt="Disk Sanitization Steps"/>
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/c158c086-8c37-4e73-abb5-1348ce33ebf4" />
 </p> 
 <br />
 
-### Power up the VM
+### Give the proper amount of memory to the VM, I will allocate 8GB of RAM to the following VM
 <p>
-<img src="https://github.com/user-attachments/assets/c33ca256-748f-4f2d-862c-23a028e7adfc" width="550" alt="Disk Sanitization Steps"/>
+<img width="1117" height="691" alt="image" src="https://github.com/user-attachments/assets/fbc3930c-7d41-4bf7-a1ea-eab749e72884" />
 </p> 
 <br />
 
-### Once the VM is powered on, click within the VM and rapidly press space bar or any key of your choosing until you see the following, then hit enter
+### Insert the ISO image to the VM, then click OK
 <p>
-<img src="https://github.com/user-attachments/assets/673de096-0f20-48aa-9ece-1defee174ec9" width="550" alt="Disk Sanitization Steps"/>
+<img width="1117" height="498" alt="image" src="https://github.com/user-attachments/assets/1644a7e9-9f79-4dc9-a730-931018152a30" />
 </p>
 <br />
 
-### Click Next
+### Power on the VM
 <p>
-<img src="https://github.com/user-attachments/assets/5a2f044b-79d7-4c62-a745-a7ad0d71afce" width="550" alt="Disk Sanitization Steps"/>
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/4491f3de-b4f0-4c62-b7fb-6adc731ac600" />
 </p>
 <br />
 
-### Click Install now
+### Based on the company standards, the language will stay as English, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/e437c752-91c3-4064-8cc8-2583498a19c8" width="550" alt="Disk Sanitization Steps"/>
+<img width="308" height="227" alt="image" src="https://github.com/user-attachments/assets/798f71a8-4340-4b59-9ec5-2d62600535bd" />
 </p>
 <br />
 
-### Choose the `Windows Server 2016 Standard Evaluation(Desktop Experience)` to have a Graphical User Interface(GUI) for the VM, then click `Next`
+### Click Install Now to being the installation of the operating system
 <p>
-<img src="https://github.com/user-attachments/assets/c356ab87-b55d-4d3d-adae-20747bdfe77a" width="550" alt="Disk Sanitization Steps"/>
+<img width="310" height="227" alt="image" src="https://github.com/user-attachments/assets/7bb03028-56b7-47ef-a06d-360bec7b6f3e" />
 </p> 
 <br />
 
-### Go through the Mircosoft Software License Terms, click the checkbox to agree then click Next
+### A product key is not required for the following VM based on the company
 <p>
-<img src="https://github.com/user-attachments/assets/29749b67-470e-4e6b-a355-8703bf4f7a69" width="550" alt="Disk Sanitization Steps"/>
+<img width="637" height="481" alt="image" src="https://github.com/user-attachments/assets/7551a74c-31e5-4bb3-944b-d222929e1230" />
 </p>
 <br />
 
-### Since this is a brand new VM with a brand new OS, choose the custom option to create a new OS
+### In order for the machine to be joined to the domain, the version that will be choes is Windows 10 Pro, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/150f1f9f-6ed7-467b-adf2-4589a65d9e66" width="550" alt="Disk Sanitization Steps"/>
+<img width="319" height="239" alt="image" src="https://github.com/user-attachments/assets/bae4bf18-f6ca-425e-b989-933f00185935" />
 </p>
 <br />
 
-### Ensure that the storage is correct, then click Next
+### Accept the license terms, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/018feeaa-4429-440f-a465-bf199e8ce8cc" width="550" alt="Disk Sanitization Steps"/>
+<img width="637" height="475" alt="image" src="https://github.com/user-attachments/assets/4b320e04-908d-4cb3-a702-a15e04fc7327" />
 </p>
 <br />
 
-### Depending on your network speed, the process of installing the OS can take between 5-30 minutes
+### Since this is a new virtual machine being installed, I will choose the option to install Windows only
 <p>
-<img src="https://github.com/user-attachments/assets/6ff01d6e-89c6-46b6-9d01-6a1e63f24900" width="550" alt="Disk Sanitization Steps"/>
+<img width="639" height="474" alt="image" src="https://github.com/user-attachments/assets/1158f2a9-5d4a-49b0-b0d1-9072d215134f" />
 </p>
 <br />
 
@@ -320,6 +320,7 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
 
 
 
