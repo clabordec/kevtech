@@ -13,7 +13,6 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Install and set up Windows 10 Pro onto the VM
-- Create the `User` account without a password during the installation process
 - Enable the `Administrator` account
 - Set a seure password for the `Administrator` account
 - Delete the `User` account to avoid any user logging in with admin rights
@@ -194,54 +193,54 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 <p>
 <img width="518" height="389" alt="image" src="https://github.com/user-attachments/assets/7a619cc8-8e24-4f93-a32d-30424d6a5452" />
 </p>
-<br />
 
-### Select Personal Use, Click Next
+
+<br>
+<br>
+
+## Enabling the Administrator account
+### After the installation has been completed, open File Explorer
 <p>
-<img width="1177" height="837" alt="image" src="https://github.com/user-attachments/assets/c936b899-6e50-4a74-bfb8-ac8812fd97ad" />
-</p> 
-<br />
-<img width="1030" height="768" alt="image" src="https://github.com/user-attachments/assets/dc450db5-f9c8-4272-8975-215e86408c4a" />
-
-
-### Choose `Role-based or featured-based installation` then click Next
-<p>
-<img width="1176" height="834" alt="image" src="https://github.com/user-attachments/assets/9df3097a-7024-4f78-8221-a5e4cfae76d5" />
+<img width="510" height="388" alt="image" src="https://github.com/user-attachments/assets/4c10226d-6332-4971-b53b-f3e0077348db" />
 </p>
 <br />
 
-### Choose `Select a Server from the server pool` then click Next
+### Right click on `This PC` then click Manage
 <p>
-<img width="1177" height="841" alt="image" src="https://github.com/user-attachments/assets/5d2f9203-58d7-4792-b525-6d593b3d2bb0" />
+<img width="1021" height="769" alt="image" src="https://github.com/user-attachments/assets/e539dddb-ebd8-4fe0-b7f0-f0761e9ffa8f" />
 </p>
 <br />
 
-### Click on the check box for `Active Directoy Domain Services`, click Add Features in the `Add Roles and Features Wizard` window, then click Next
+### Click on the `Local Users and Computers` drop down, click on `User`
 <p>
-<img width="1176" height="838" alt="image" src="https://github.com/user-attachments/assets/e7d7cc13-fab5-41d9-b135-f3c0d3d0fdcb" />
-</p>
-<p>
-<img width="1176" height="835" alt="image" src="https://github.com/user-attachments/assets/49e1b215-18b5-4fe2-9dcd-279b0cbd9030" />
-<p>
-<img width="1174" height="835" alt="image" src="https://github.com/user-attachments/assets/c4f1da28-5f2f-4979-acaa-a75beeeeb90e" />
+<img width="1027" height="774" alt="image" src="https://github.com/user-attachments/assets/7b50f889-17fc-49ef-99d0-9e5b36386eb7" />
 </p>
 <br />
 
-### Make sure that Group Policy Management is checked then click Next
+### Enable the `Administrator` account
 <p>
-<img width="1174" height="837" alt="image" src="https://github.com/user-attachments/assets/e9ed2933-c5bf-4be8-be24-0e9b1350d45e" />
+<img width="1029" height="784" alt="image" src="https://github.com/user-attachments/assets/7ec457a7-4468-408d-bb94-10f1ea506b7b" />
+</p>
+<p>
+<img width="1024" height="775" alt="image" src="https://github.com/user-attachments/assets/c2132e58-fc8e-495c-bdef-36c3a63fc2f5" />
+</p>
+<p>
+<img width="1023" height="780" alt="image" src="https://github.com/user-attachments/assets/b8de5b22-2405-412e-9ce8-e8ca05cd74d3" />
 </p>
 <br />
 
-### Click Next
+### Set a password for the `Administrator` account
 <p>
-<img width="1174" height="835" alt="image" src="https://github.com/user-attachments/assets/61ba355c-c34d-4aae-a1ba-a295e53ada50" />
+<img width="1030" height="778" alt="image" src="https://github.com/user-attachments/assets/2f905ae6-4fae-4e3a-98b6-88128dc44150" />
+</p>
+<p>
+<img width="189" height="124" alt="image" src="https://github.com/user-attachments/assets/9be2b014-bf5e-48e8-a460-32995f51232a" />
 </p>
 <br />
 
-### Click Install after review all of the Roles and Features
+### Sign out of the VM
 <p>
-<img width="1171" height="835" alt="image" src="https://github.com/user-attachments/assets/9adcd166-f666-4a66-a6d0-4f32a5a85513" />
+<img width="1021" height="766" alt="image" src="https://github.com/user-attachments/assets/621ce87f-9b53-4741-b4b5-22689d526023" />
 </p>
 
 
@@ -249,80 +248,58 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 <br>
 
 
-## Promoting the server as a Domain Controller
-### Once the installation for AD DS has been completed click on `Promote this server to a domain controller`
+## Deleting the default User account
+### Log in with the new Admin credentials
 <p>
-<img width="1174" height="837" alt="image" src="https://github.com/user-attachments/assets/d72e8d4a-662b-4f36-ba59-915d9dc9b9ac" />
+<img width="549" height="392" alt="image" src="https://github.com/user-attachments/assets/b9d1797e-2477-4826-ba09-2ebcbc5f8328" />
 </p>
 <br />
 
-### Under `Select the deployment operation` choose `Add a forest`, then provide a domain name, in this case I will use `kevtech.com` as the domain name, then click Next
+### Delete the default `User` account
 <p>
-<img width="1138" height="835" alt="image" src="https://github.com/user-attachments/assets/69981208-841b-4cf2-a676-32a2c49159c1" />
+<img width="987" height="708" alt="image" src="https://github.com/user-attachments/assets/d685dab4-35c4-4fd8-912b-72aa3ea9bfea" />
 </p>
 <br />
 
-### Be sure to keep the `Forest Function Level` and `Domain Function Level` set to Windows Server 2016, and enter a secure password for the domain, then click Next
+
+<br>
+<br>
+
+
+## Installing RSAT Tools
+### Click on the Windows icon and type `optional features`, click on `Add or remove feature`
 <p>
-<img width="1138" height="838" alt="image" src="https://github.com/user-attachments/assets/0176795b-55ea-4455-b084-93dbb2fcf9f7" />
+<img width="1026" height="772" alt="image" src="https://github.com/user-attachments/assets/ad336386-15f3-4da8-b398-058a98a92a16" />
 </p>
 <br />
 
-### Click Next
+### Click on `Add a feature`
 <p>
-<img width="1141" height="835" alt="image" src="https://github.com/user-attachments/assets/c2268666-6b27-4cd2-a72a-d68802759c2b" />
+<img width="1024" height="775" alt="image" src="https://github.com/user-attachments/assets/acb4bbe1-c27a-443c-b871-aff84b92e943" />
 </p>
 <br />
 
-### The NetBIOS domain name will appear as the domain name without the `.com`, click Next
+### Type in RSAT and install all tools provied by the company
 <p>
-<img width="1146" height="847" alt="image" src="https://github.com/user-attachments/assets/845f9261-d839-40d5-880d-3d699868e242" />
+<img width="337" height="326" alt="image" src="https://github.com/user-attachments/assets/5253d855-82c4-435e-94b7-b3c05dc01d75" />
+</p>
+<p>
+<img width="678" height="630" alt="image" src="https://github.com/user-attachments/assets/29d18c12-b62e-4ef0-9557-53a8b7b0d7de" />
 </p>
 <br />
 
-### Click Next
+### After the installation, log out of the VM then log back in, click on the Windows icon, scroll down to `Windows Adminstrative Tools` to view the installed tools
 <p>
-<img width="1141" height="835" alt="image" src="https://github.com/user-attachments/assets/228e9940-d79a-429d-ab0a-81cb1558f0a1" />
+<img width="1020" height="766" alt="image" src="https://github.com/user-attachments/assets/ea0dec89-e3cd-4ae9-aa54-596a2d482a06" />
 </p>
-<br />
-
-### Click Next
 <p>
-<img width="1140" height="837" alt="image" src="https://github.com/user-attachments/assets/9d62b577-753b-4dad-9a4d-e5deec16d506" />
+<img width="502" height="367" alt="image" src="https://github.com/user-attachments/assets/dc5e634c-7dae-4e7c-bbe3-9ea776635171" />
 </p>
-<br />
-
-### Make sure all prerequisites pass, ignore the warning signs, Click Install
 <p>
-<img width="1138" height="838" alt="image" src="https://github.com/user-attachments/assets/ce89f1ec-25fc-4a62-999c-573e333b82f6" />
-</p>
-<br />
-
-### Once the installation is complete, you will be prompted with the following message, the VM will automatically sign out in 5-10 seconds depending in Internet speed
-<p>
-<img src="https://github.com/user-attachments/assets/439dc6be-88ce-4525-91a6-aad4628deeb1" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Enter in the password that was created for the domain
-<p>
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/8f4a994c-9b67-493b-9964-7993d8c71d54" />
-</p>
-<br />
-
-### Go to Server Manager, then click on Tools, you will see all of the features for Active Directory, along with others that was installed
-<p>
-<img src="https://github.com/user-attachments/assets/53391199-f405-4d90-a789-9dd5f0e1b78d" width="550" alt="Disk Sanitization Steps"/>
+<img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/d322fd36-168c-421a-8d4e-23e188779b36" />
 </p>
 <br />
 
 ---
 
 # End of Project
-
-
-
-
-
-
-
