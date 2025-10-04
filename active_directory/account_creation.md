@@ -71,4 +71,6 @@ This project outlines the creation of both user accounts and security groups wit
 
 ### Verify that the following group has been created
 <p>
-<img width="650" height="650" alt="image" s
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
+</p>
+
