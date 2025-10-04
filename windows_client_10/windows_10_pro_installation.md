@@ -13,7 +13,9 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Install and set up Windows 10 Pro onto the VM
-- Create the `Help Desk` user
+- Create the `User` account without a password during the installation process
+- Enable the `Administrator` account
+- Set a password for the `Administrator` account
 
 <br>
 
@@ -27,39 +29,42 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 </p>
 <br />
 
-### Click on the `64-bit edition` download, based on your network speed, this may take between 5-30 minutes based on your computer specs
+### Scroll down to the `Create Windows 10 Installation media`, then click Download Now, once the download is complete, click on the exe file
 <p>
-<img src="https://github.com/user-attachments/assets/dde6fcdf-6a2c-4e53-ae5e-57a6ce98da2d" width="550" alt="Disk Sanitization Steps"/>
+<img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/e82a3657-fae2-474a-9765-b79a9adff549" />
+</p>
+<p>
+<img width="1338" height="745" alt="image" src="https://github.com/user-attachments/assets/b03bd4d8-f2ac-46ca-ad5c-7756804b6aac" />
 </p>
 <br />
 
-### Save the ISO in any location, in this case I have saved the ISO to the following location, I've also renamed the ISO image:
+### Accept the license terms to move forward with the installtion
 <p>
-<img src="https://github.com/user-attachments/assets/4e7c94c5-7322-4b84-b913-4bab2cfe4471" width="550" alt="Disk Sanitization Steps"/>
+<img width="997" height="859" alt="image" src="https://github.com/user-attachments/assets/4dcfd73e-a6fb-4ab3-be65-3e3334af34af" />
 </p> 
 <br />
 
-### Open VMware Workstation Pro and create a new VM
+### Choose the second option, this will give the option to download either a DVD, usb flash drive or a ISO file
 <p>
-<img src="https://github.com/user-attachments/assets/cc525cd1-4138-4a4b-84db-7d0f720788ba" width="550" alt="Disk Sanitization Steps"/>
+<img width="997" height="859" alt="image" src="https://github.com/user-attachments/assets/0d8cb0c9-b120-41a0-8317-1fb7021b70e7" />
 </p>
 <br />
 
-### Click Next
+### Leave the checkbox checked, as the recommended options fit the standard installtion for the company
 <p>
-<img src="https://github.com/user-attachments/assets/b99d9086-cb9f-47e6-b9d6-6677b41b1386" width="550" alt="Disk Sanitization Steps"/>
+<img width="996" height="852" alt="image" src="https://github.com/user-attachments/assets/8a291e69-4c03-4bb1-9121-0b2d28dd79f6" />
 </p>
 <br />
 
-### To aviod any issue with the VM starting up successfully, choose `I will install the operating system later.` radio option, then click next
+### Choose the `ISO file` option to get the ISO file for the VM that will be created later on
 <p>
-<img src="https://github.com/user-attachments/assets/600e745f-0ce4-4dbc-abf7-bf99e481a92d" width="550" alt="Disk Sanitization Steps"/>
+<img width="994" height="853" alt="image" src="https://github.com/user-attachments/assets/4d9eb245-e72d-4807-9522-1edc95641706" />
 </p>
 <br />
 
-### Select `Microsoft Windows` as the OS, and `Windows Server 2016` as the version
+### Choose a file path to store the ISO file
 <p>
-<img src="https://github.com/user-attachments/assets/7df34f80-20ad-4228-84f6-65b1dda50bff" width="550" alt="Disk Sanitization Steps"/>
+<img width="470" height="352" alt="image" src="https://github.com/user-attachments/assets/76b90de7-7a62-4c89-9e09-38f8ceda05c2" />
 </p>
 <br />
 
@@ -309,6 +314,7 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
 
 
 
