@@ -1,4 +1,4 @@
-<img width="1668" height="946" alt="image" src="https://github.com/user-attachments/assets/8281d2a9-c579-4ea1-b653-813223ad6572" /><h1>Installing and setting up Windows 10 Pro in VMware Workstation Pro</h1>
+<h1>Installing and setting up Windows 10 Pro in VMware Workstation Pro</h1>
 This project outlines the installation and set up of Windows10 Pro.<br />
 
 
@@ -309,5 +309,6 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
 
 
