@@ -68,19 +68,25 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 </p>
 <br />
 
-### Give the VM a name, and choose a file path
+### Create a new VM
 <p>
-<img src="https://github.com/user-attachments/assets/6aa43cac-1226-414a-a4bf-3ec0d2b37a89" width="550" alt="Disk Sanitization Steps"/>
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/d47e4623-54c1-4326-91d5-4eae751ab043" />
+</p> 
+<p>
+<img width="637" height="625" alt="image" src="https://github.com/user-attachments/assets/95ea9f7a-dbcf-4b91-aa1d-e320cb78a317" />
+</p> 
+<p>
+<img width="637" height="625" alt="image" src="https://github.com/user-attachments/assets/f19d3eb7-d723-4926-a7a0-36e78843c533" />
 </p> 
 <br />
 
-### Depending on your computer specs, assign the necessary amount of storage to the VM
+### Choose the Microsoft Windows operating system, along with the version as Windows 10, Click Next
 <p>
-<img src="https://github.com/user-attachments/assets/31ed9d1c-7047-41a9-b67e-fc86c6bb2616" width="550" alt="Disk Sanitization Steps"/>
+<img width="633" height="624" alt="image" src="https://github.com/user-attachments/assets/cfc4c5f7-61c9-418e-9ff2-a122ab33e351" />
 </p>
 <br />
 
-### Click finish
+### Name the VM according to the company diagram, Click Next
 <p>
 <img src="https://github.com/user-attachments/assets/8a4c2b72-44db-42c4-9969-c1458343df83" width="550" alt="Disk Sanitization Steps"/>
 </p>
@@ -314,6 +320,7 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
 
 
 
