@@ -15,9 +15,17 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 - Install and set up Windows 10 Pro onto the VM
 - Create the `User` account without a password during the installation process
 - Enable the `Administrator` account
-- Set a password for the `Administrator` account
+- Set a seure password for the `Administrator` account
+- Delete the `User` account to avoid any user logging in with admin rights
+- Download the following RSAT tools:
+    - RSAT: Active Directory Certificate Services ToolsActive Directory Certificate Services Tools
+    - RSAT: Active Directory Domain Services and Lightweight Directory Services Tools
+    - RSAT: DHCP Server Tools
+    - RSAT: DNS Server Tools
+    - RSAT: Group Policy Management Tools
+    - RSAT: Remote Desktop Services Tools
 
-<br>
+<br />
 
 
 <h1>Deployment and Configuration Steps</h1>
@@ -158,52 +166,43 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 </p>
 <br />
 
-### Since this is a new virtual machine being installed, I will choose the option to install Windows only
+### Since this is a new virtual machine being installed, I will choose the option to install Windows only, click Next
 <p>
 <img width="639" height="474" alt="image" src="https://github.com/user-attachments/assets/1158f2a9-5d4a-49b0-b0d1-9072d215134f" />
 </p>
 <br />
 
-### Once the OS has been installed, input a password, be sure to remember the password, or you will need to re-install the OS if you forget it, then click Finish
+### Select the driver with the storage that was added from the creation of the VM, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/1c4d5835-9756-47b6-b92a-e715181386a6" width="550" alt="Disk Sanitization Steps"/>
+<img width="639" height="478" alt="image" src="https://github.com/user-attachments/assets/0dcc8e4b-f5ff-451b-b256-fe3f53fceea0" />
 </p>
 <br />
 
-### After inputting the new password, press Ctrl+Alt+Insert to unlock the Windows Start Screen within the VM
+### Select the United States as the region, click Yes
 <p>
-<img src="https://github.com/user-attachments/assets/f8a8e5ad-710b-47b6-978f-fe4a9e39d4bb" width="550" alt="Disk Sanitization Steps"/>
+<img width="514" height="389" alt="image" src="https://github.com/user-attachments/assets/ef97c4ba-366f-444b-b922-7c9e08cd5547" />
 </p>
 <br />
 
-### Enter the new password
+### Select US as the keyboard layout, click Yes
 <p>
-<img src="https://github.com/user-attachments/assets/ed45f5f3-75f0-45de-b840-9ece2dfd4d4a" width="550" alt="Disk Sanitization Steps"/>
+<img width="514" height="386" alt="image" src="https://github.com/user-attachments/assets/a203dd2b-cd06-4941-b043-0b360595e065" />
 </p>
 <br />
 
-### Once logged in, Server Manager will be the first application that will open
+### Click Skip
 <p>
-<img src="https://github.com/user-attachments/assets/8c57e57d-62a4-419d-a2b7-97162208121a" width="550" alt="Disk Sanitization Steps"/>
-</p>
-
-
-<br>
-<br>
-
-
-## Installing and setting up Active Directory
-### Within Server Manager, go to Manage >> Add Roles and Features
-<p>
-<img src="https://github.com/user-attachments/assets/28842a3d-154e-43de-8485-3e4d7836935b" width="550" alt="Disk Sanitization Steps"/>
+<img width="518" height="389" alt="image" src="https://github.com/user-attachments/assets/7a619cc8-8e24-4f93-a32d-30424d6a5452" />
 </p>
 <br />
 
-### Click Next
+### Select Personal Use, Click Next
 <p>
 <img width="1177" height="837" alt="image" src="https://github.com/user-attachments/assets/c936b899-6e50-4a74-bfb8-ac8812fd97ad" />
 </p> 
 <br />
+<img width="1030" height="768" alt="image" src="https://github.com/user-attachments/assets/dc450db5-f9c8-4272-8975-215e86408c4a" />
+
 
 ### Choose `Role-based or featured-based installation` then click Next
 <p>
@@ -320,6 +319,7 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
 
 
 
