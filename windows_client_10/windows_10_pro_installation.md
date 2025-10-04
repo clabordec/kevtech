@@ -1,4 +1,4 @@
-<h1>Installing and setting up Windows 10 Pro in VMware Workstation Pro</h1>
+<img width="1668" height="946" alt="image" src="https://github.com/user-attachments/assets/8281d2a9-c579-4ea1-b653-813223ad6572" /><h1>Installing and setting up Windows 10 Pro in VMware Workstation Pro</h1>
 This project outlines the installation and set up of Windows10 Pro.<br />
 
 
@@ -21,9 +21,9 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 <h1>Deployment and Configuration Steps</h1>
 
 ## Installing and setting up Windows Pro 10
-### Go to a search browser and type in the following `windows server 2016 iso download` choose the highlighed link
+### Go to a search browser and type in the following `windows 10 bootable usb` choose the highlighed link
 <p>
-<img src="https://github.com/user-attachments/assets/9df76665-fd60-4efd-900d-9f5e17768a74" width="550" alt="Disk Sanitization Steps"/>
+<img width="1668" height="946" alt="image" src="https://github.com/user-attachments/assets/5d93fa76-394d-4eaa-b692-a45aa82d8a40" />
 </p>
 <br />
 
@@ -309,4 +309,5 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 ---
 
 # End of Project
+
 
