@@ -21,7 +21,7 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 
 ---
 
-✨ **Operating Systems**  
+💻 **Operating Systems**  
 - Windows Server 2016
 - Windows 10 Pro
 
