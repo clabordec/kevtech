@@ -46,5 +46,5 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 
 📬 **Contact**  
 👩‍💻 Author: *Chaanyah Laborde*  
-✉️ Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
+✉️ Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com) <br>
 🔗 LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)
