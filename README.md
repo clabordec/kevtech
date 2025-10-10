@@ -36,9 +36,9 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 ---
 
 📂 **Repo Organization**  
-- `windows_server_2016/` → Organized steps on setting up Windows Server 2016, changing the computer name and setting up a static IP address.
+- `windows_server_2016/` → Organized steps on setting up Windows Server 2016, installing and configuring Active Directory, promoting the server as the Domain Controller , changing the computer name and setting up a static IP address.
 - `windwos_client_10/` → Organized steps on setting up Windows 10 Pro, joining the client to the domain and installing applications on the user's machine in the backend.
-- `active_directory/` → Organized steps on installing Active Directory, creating and managing resources, as well as adding computers to the domain.
+- `active_directory/` → Organized steps on centralizing and managing users, computers, and other network resources, enabling administrators to control access, enforce security policies, and streamline IT management.
 - `group_policy/` → Organized steps on managing system settings, application settings and user configuration.
 
 ---
@@ -46,5 +46,5 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 
 📬 **Contact**  
 👩‍💻 Author: *Chaanyah Laborde*  
-✉️ Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)  
-🔗 LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)  
+✉️ Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
+🔗 LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)
