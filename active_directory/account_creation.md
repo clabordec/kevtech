@@ -1,5 +1,5 @@
 <h1>Creating Users and Security Groups</h1>
-This project outlines the creation of both user accounts and security groups within Active Directory<br />
+This project outlines the creation of both user accounts and security groups within Active Directory using the `Help Desk` account that has RSAT tools equipped on their machine.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -84,5 +84,6 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
 </p>
+
 
 
