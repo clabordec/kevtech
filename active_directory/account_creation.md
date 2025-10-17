@@ -12,6 +12,10 @@ This project outlines the creation of both user accounts and security groups wit
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
+- Create the following OUs:
+    - IT
+    - HR
+    - Engineers
 - Create the following users:
     - Help Desk
     - Patty
@@ -20,10 +24,6 @@ This project outlines the creation of both user accounts and security groups wit
     - Eric Madson
     - Alex Bertzy
 - For the user `Help Desk`, verify that the user has admin rights
-- Create the following OUs:
-    - IT
-    - HR
-    - Engineers
 - Assign `Help Desk` to the `IT` security group
 - Assign `Patty`, `Jane Foster`, `Jamie Verges` to the HR OU
 - Assign `Eric Madson` and `Alex Bertzy` to the Engineers OU
@@ -81,4 +81,5 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
 </p>
+
 
