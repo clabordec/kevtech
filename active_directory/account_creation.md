@@ -3,12 +3,15 @@
 This project outlines the creation of both user accounts and security groups within Active Directory using the `Help Desk` account that has RSAT tools equipped on their machine.<br />
 
 <h2>Environments and Technologies Used</h2>
+
 - Active Directory Domain Services (Active Directory Users and Computers)
 
 <h2>Operating Systems Used </h2>
+
 - Windows Server 2016
 
 <h2>High-Level Deployment and Configuration Steps</h2>
+
 - Create the following users:
     - Help Desk
     - Patty
@@ -78,3 +81,4 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
 </p>
+
