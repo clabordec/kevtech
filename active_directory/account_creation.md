@@ -37,6 +37,7 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="1416" height="1018" alt="image" src="https://github.com/user-attachments/assets/829e03a7-38c5-415b-9dda-67299b8cf25d" />
 </p>
+<br />
 
 ### Create the IT, HR and Engineers OUs, be sure to have the `Protect container from accidental deletion` checkbox checked
 <p>
@@ -51,6 +52,7 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="297" height="573" alt="image" src="https://github.com/user-attachments/assets/b66260dc-90d9-4161-96a3-4d3384a8d0c9" />
 </p>
+<br />
 
 ### Create the `Help Desk` user, provide a secure password, and set password to never expire
 <p>
@@ -61,11 +63,13 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
 </p>
+<br />
 
 ### Verify the user's information, click Finish
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8102c143-e321-4e4b-b38e-b98d6c01a282" />
 </p>
+<br />
 
 ### Verify that `Help Desk` is part of the same groups as `Administrator`
 <p>
@@ -82,16 +86,17 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0d090446-9386-413e-ab6b-c6495d9d27f3" />
 </p>
+<br />
 
 ### Specify the group name, ensure group type is Security
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
 </p>
+<br />
 
 ### Verify that the group has been created
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
 </p>
 
-
-
+<br />
