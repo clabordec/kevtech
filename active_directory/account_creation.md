@@ -32,15 +32,24 @@ This project outlines the creation of both user accounts and security groups wit
 
 <h1>Actions and Observations</h1>
 
-## Creating the User
-### In Active Directory Users and Computers, click the drop-down for the company domain, then click `Users` OU
+## Creating the Organizational Units (OUs)
+### Within Active Directory Users and Computers, right click on the domain name, New, Organization Unit
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dba8949b-d412-418a-bff6-7a5874debb9e" />
+<img width="1416" height="1018" alt="image" src="https://github.com/user-attachments/assets/829e03a7-38c5-415b-9dda-67299b8cf25d" />
 </p>
 
-### Right-click the `Administrator` user and choose Copy
+### Create the IT, HR and Engineers OUs, be sure to have the `Protect container from accidental deletion` checkbox checked
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3cb285ae-3ea7-4ea9-92f1-e6cea2a7e3ae" />
+<img width="328" height="280" alt="image" src="https://github.com/user-attachments/assets/c318c583-6d46-424a-9a57-3c9db67a8048" />
+</p>
+<p>
+<img width="329" height="284" alt="image" src="https://github.com/user-attachments/assets/5918a892-c6e4-4b64-95f3-d174b4e8ab42" />
+</p>
+<p>
+<img width="325" height="281" alt="image" src="https://github.com/user-attachments/assets/7f91e1df-ffab-4432-9197-f410d245fc8f" />
+</p>
+<p>
+<img width="297" height="573" alt="image" src="https://github.com/user-attachments/assets/b66260dc-90d9-4161-96a3-4d3384a8d0c9" />
 </p>
 
 ### Create the `Help Desk` user, provide a secure password, and set password to never expire
@@ -48,6 +57,8 @@ This project outlines the creation of both user accounts and security groups wit
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3099bbd6-1d22-43e1-86ef-2a9e44947716" />
 </p>
 <p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
+</p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
 </p>
 
@@ -81,5 +92,6 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
 </p>
+
 
 
