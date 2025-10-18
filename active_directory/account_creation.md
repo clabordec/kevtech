@@ -128,7 +128,7 @@ This project outlines the creation of both user accounts and security groups wit
 <br />
 
 ## Verifying the users
-### Verify the user `Help Desk`
+### Verify the user `Help Desk`, user should be apart of the same groups as the `Administrator`
 <p>
 <img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
 </p>
@@ -136,43 +136,36 @@ This project outlines the creation of both user accounts and security groups wit
 
 ### Verify the user `Patty`
 <p>
-<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+<img width="1027" height="814" alt="image" src="https://github.com/user-attachments/assets/45f46d96-8ac1-4db3-b5a7-e3e3b8e09f74" />
 </p>
 <br />
 
 ### Verify the user `Jane Foster`
 <p>
-<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+<img width="1099" height="829" alt="image" src="https://github.com/user-attachments/assets/ad32724d-864d-4b80-8f9b-da7f501c2e9a" />
 </p>
 <br />
 
 ### Verify the user `Jamie Verges`
 <p>
-<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+<img width="1027" height="822" alt="image" src="https://github.com/user-attachments/assets/7adbee0b-fc4b-49e0-9452-4c083b691e58" />
 </p>
 <br />
 
 ### Verify the user `Eric Madson`
 <p>
-<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+<img width="1015" height="819" alt="image" src="https://github.com/user-attachments/assets/72afb1c9-47dc-4ad2-9c33-13d3063423df" />
 </p>
 <br />
 
 ### Verify the user `Alex Bertzy`
 <p>
-<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
-</p>
-<br />
-
-### Verify that `Help Desk` is part of the same groups as `Administrator`
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4a7443de-e83f-4a96-a8d4-aed4620cb0ce" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d8acdd8a-742f-4896-8e95-e51051317320" />
+<img width="1060" height="814" alt="image" src="https://github.com/user-attachments/assets/5c8da4e1-c49e-44f2-bf0d-d6bf276f2641" />
 </p>
 
+
 <br />
+
 
 ## Creating the Security Group
 ### In the USA OU, go to Users >> Right-click on the Accounting OU >> New > Group
@@ -193,6 +186,7 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
 
 
 
