@@ -24,9 +24,9 @@ This project outlines the creation of both user accounts and security groups wit
     - Eric Madson
     - Alex Bertzy
 - Verify that the user have been created, For the user `Help Desk`, verify that the user has admin rights
-- Assign `Help Desk` to the `IT` security group
-- Assign `Patty`, `Jane Foster`, `Jamie Verges` to the HR OU
-- Assign `Eric Madson` and `Alex Bertzy` to the Engineers OU
+- Assign `Help Desk` to the `IT` OU
+- Assign `Patty`, `Jane Foster`, `Jamie Verges` to the `HR` OU
+- Assign `Eric Madson` and `Alex Bertzy` to the `Engineers` OU
 
 <br>
 
@@ -186,6 +186,7 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
 
 
 
