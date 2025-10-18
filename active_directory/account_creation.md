@@ -54,7 +54,7 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 <br />
 
-### Create the following users: `Help Desk`, `Patty`, `Jane Foster`, `Jamie Verges`, `Eric Madson`, `Alex Bertzy`, for the `Help Desk` user, provide a secure password, and set password to never expire, provide a password for the remaning users, but they will need to change their password once they log in
+### Create the following users: `Help Desk`, `Patty`, `Jane Foster`, `Jamie Verges`, `Eric Madson` and `Alex Bertzy`, for the `Help Desk` user, provide a secure password, and set password to never expire, provide a password for the remaning users, but they will need to change their password once they log in
 <p>
 <img width="1002" height="1017" alt="image" src="https://github.com/user-attachments/assets/7461cc8f-d996-4ccc-a0b9-95b06b21bb34" />
 </p>
@@ -66,9 +66,63 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 <br />
 
-### Create the remaining users
+### Creating the user `Patty`
 <p>
 <img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+</p>
+<p>
+<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/bc0cd0d9-3098-44b2-9eb7-d765eb842a3d" />
+</p>
+<p>
+<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+</p>
+<br />
+
+### Creating the user `Jane Foster`
+<p>
+<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+</p>
+<p>
+<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+</p>
+<p>
+<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+</p>
+<br />
+
+### Creating the user `Jamie Verges`
+<p>
+<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+</p>
+<p>
+<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+</p>
+<p>
+<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+</p>
+<br />
+
+### Creating the user `Eric Madson`
+<p>
+<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+</p>
+<p>
+<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+</p>
+<p>
+<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+</p>
+<br />
+
+### Creating the user `Alex Bertzy`
+<p>
+<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+</p>
+<p>
+<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+</p>
+<p>
+<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
 </p>
 <br />
 
@@ -107,5 +161,6 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
 
 
