@@ -23,7 +23,7 @@ This project outlines the creation of both user accounts and security groups wit
     - Jamie Verges
     - Eric Madson
     - Alex Bertzy
-- For the user `Help Desk`, verify that the user has admin rights
+- Verify that the user have been created, For the user `Help Desk`, verify that the user has admin rights
 - Assign `Help Desk` to the `IT` security group
 - Assign `Patty`, `Jane Foster`, `Jamie Verges` to the HR OU
 - Assign `Eric Madson` and `Alex Bertzy` to the Engineers OU
@@ -54,6 +54,7 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 <br />
 
+## Creating the users
 ### Create the following users: `Help Desk`, `Patty`, `Jane Foster`, `Jamie Verges`, `Eric Madson` and `Alex Bertzy`, for the `Help Desk` user, provide a secure password, and set password to never expire, provide a password for the remaning users, but they will need to change their password once they log in
 <p>
 <img width="1002" height="1017" alt="image" src="https://github.com/user-attachments/assets/7461cc8f-d996-4ccc-a0b9-95b06b21bb34" />
@@ -80,55 +81,86 @@ This project outlines the creation of both user accounts and security groups wit
 
 ### Creating the user `Jane Foster`
 <p>
-<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+<img width="326" height="282" alt="image" src="https://github.com/user-attachments/assets/cc6a7e15-5b4c-4c1a-ab6c-6660d093fd15" />
 </p>
 <p>
-<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+<img width="652" height="562" alt="image" src="https://github.com/user-attachments/assets/0dbe713a-b1b5-4ed7-abad-948f4e303121" />
 </p>
 <p>
-<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+<img width="654" height="565" alt="image" src="https://github.com/user-attachments/assets/13ac8a97-c4f4-4e98-a967-35101d12e4a9" />
 </p>
 <br />
 
 ### Creating the user `Jamie Verges`
 <p>
-<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+<img width="326" height="284" alt="image" src="https://github.com/user-attachments/assets/f8389eac-ac89-403b-9e57-9a46de099c40" />
 </p>
 <p>
-<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+<img width="652" height="562" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
 </p>
 <p>
-<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+<img width="649" height="565" alt="image" src="https://github.com/user-attachments/assets/7794e206-3057-4a6a-bae6-2b32cf01766e" />
 </p>
 <br />
 
 ### Creating the user `Eric Madson`
 <p>
-<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+<img width="651" height="564" alt="image" src="https://github.com/user-attachments/assets/3779d94f-27ba-41fe-a72e-ebd026e54b74" />
 </p>
 <p>
-<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+<img width="652" height="562" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
 </p>
 <p>
-<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+<img width="654" height="568" alt="image" src="https://github.com/user-attachments/assets/b8fb9a18-f432-4cf4-9dff-882e2595d860" />
 </p>
 <br />
 
 ### Creating the user `Alex Bertzy`
 <p>
-<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
+<img width="326" height="284" alt="image" src="https://github.com/user-attachments/assets/8a6f6e9c-822a-4052-ba1d-c1361bd34f94" />
 </p>
 <p>
-<img width="654" height="570" alt="image" src="https://github.com/user-attachments/assets/e89db431-ecde-44bc-9937-bac5278d0b1f" />
+<img width="652" height="562" alt="image" src="https://github.com/user-attachments/assets/2d3233e8-43ea-466c-b7dd-d5b2e74b3242" />
 </p>
 <p>
-<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/2d50adde-9062-4a2e-8394-b15ef34da712" />
+<img width="649" height="565" alt="image" src="https://github.com/user-attachments/assets/852a75ec-743e-4450-91c0-b900a69f3930" />
 </p>
 <br />
 
-### Verify the user's information, click Finish
+## Verifying the users
+### Verify the user `Help Desk`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8102c143-e321-4e4b-b38e-b98d6c01a282" />
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+</p>
+<br />
+
+### Verify the user `Patty`
+<p>
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+</p>
+<br />
+
+### Verify the user `Jane Foster`
+<p>
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+</p>
+<br />
+
+### Verify the user `Jamie Verges`
+<p>
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+</p>
+<br />
+
+### Verify the user `Eric Madson`
+<p>
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
+</p>
+<br />
+
+### Verify the user `Alex Bertzy`
+<p>
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/4aaae8c4-a256-4a36-949d-113954d022a6" />
 </p>
 <br />
 
@@ -161,6 +193,7 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
 
 
 
