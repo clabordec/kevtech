@@ -54,7 +54,10 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 <br />
 
-### Create the `Help Desk` user, provide a secure password, and set password to never expire
+### Create the following users: `Help Desk`, `Patty`, `Jane Foster`, `Jamie Verges`, `Eric Madson`, `Alex Bertzy`, for the `Help Desk` user, provide a secure password, and set password to never expire, provide a password for the remaning users, but they will need to change their password once they log in
+<p>
+<img width="1002" height="1017" alt="image" src="https://github.com/user-attachments/assets/7461cc8f-d996-4ccc-a0b9-95b06b21bb34" />
+</p>
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3099bbd6-1d22-43e1-86ef-2a9e44947716" />
 </p>
@@ -100,3 +103,4 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
