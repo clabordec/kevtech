@@ -33,6 +33,12 @@ This project outlines the creation of both user accounts and security groups wit
 <h1>Actions and Observations</h1>
 
 ## Creating the Organizational Units (OUs)
+### First, I will verify that I am in the Help Desk account
+<p>
+<img width="1425" height="1078" alt="image" src="https://github.com/user-attachments/assets/d1bd4b61-48e8-432f-b35b-eaf92eb37af6" />
+</p>
+<br />
+
 ### Within Active Directory Users and Computers, right click on the domain name, New, Organization Unit
 <p>
 <img width="1416" height="1018" alt="image" src="https://github.com/user-attachments/assets/829e03a7-38c5-415b-9dda-67299b8cf25d" />
@@ -165,32 +171,4 @@ This project outlines the creation of both user accounts and security groups wit
 
 
 <br />
-
-
-## Creating the Security Group
-### In the USA OU, go to Users >> Right-click on the Accounting OU >> New > Group
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0d090446-9386-413e-ab6b-c6495d9d27f3" />
-</p>
-<br />
-
-### Specify the group name, ensure group type is Security
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
-</p>
-<br />
-
-### Verify that the group has been created
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" />
-</p>
-
-<br />
-
-
-
-
-
-
-
 
