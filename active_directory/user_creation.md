@@ -1,4 +1,4 @@
-<h1>Creating Users</h1>
+<h1>Creating Organizational Units(OUs) & Users</h1>
 
 This project outlines the creation of both user accounts and security groups within Active Directory using the `Help Desk` account that has RSAT tools equipped on their machine.<br />
 
@@ -186,6 +186,7 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
 
 
 
