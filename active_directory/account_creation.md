@@ -64,7 +64,11 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
 </p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b6fc9f-6fd9-40d2-af2c-91d6e5a831dc" />
+<br />
+
+### Create the remaining users
+<p>
+<img width="326" height="283" alt="image" src="https://github.com/user-attachments/assets/47a4c0a9-ce06-4d45-84ce-a1ce2d4d1c05" />
 </p>
 <br />
 
@@ -103,4 +107,5 @@ This project outlines the creation of both user accounts and security groups wit
 </p>
 
 <br />
+
 
