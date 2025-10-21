@@ -1,8 +1,8 @@
-#  Kev Tech
+#  Active Directory Engineering
 
 📌 **Overview**  
 
-Kevtech is a modern IT services and solutions provider dedicated to delivering agile, secure, and cost-effective technology support for businesses of all sizes. Built on the foundation of innovation and reliability, Kevtech bridges the gap between complex IT infrastructures and the daily needs of end-users. The organization’s goal is to empower clients with seamless technology experiences while ensuring their systems remain resilient, scalable, and future-ready.
+The Active Directory Engineering repository offers a complete framework for organizations aiming to establish and manage robust Active Directory (AD) infrastructures. This project provides a structured approach to deploying and configuring AD environments, ensuring scalability, security, and efficiency.
 
 ---
 
