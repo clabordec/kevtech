@@ -15,7 +15,7 @@ Kevtech is a modern IT services and solutions provider dedicated to delivering a
 
 ---
 
-✨ **Company Diagram**  
+✨ **Diagram**  
 
 [Insert the diagram]
 
