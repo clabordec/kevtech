@@ -9,6 +9,7 @@ This project outlines the creation of both user accounts and organizational unit
 - Windows Server 2016
 
 <h2>High-Level Deployment and Configuration Steps</h2>
+
 - Create the following OUs:
   - IT
   - HR
@@ -173,3 +174,4 @@ For the remaining users, set a temporary password that requires them to change i
 <br />
 
 # End of Project
+
